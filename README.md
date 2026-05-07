@@ -9,9 +9,14 @@ The domain was originally registered by **Haley S. Anderson**. It will be renewe
 When responsibility for the site changes hands, the outgoing owner should pass along:
 
 1. Credentials for the shared email account (`juniorinternationallawscholars@gmail.com`)
-2. Access to this GitHub repository
+2. Access to this GitHub repository (`jilsa-admin` credentials).
 
-GitHub credentials are currently stored in **1Password**. Haley holds the original passkey.
+In conjunction with the incoming owner, the outgoing owner should also update the phone number that is used for 2fa at login:
+1. Click on the jilsa-admin logo in the top right corner of GitHub.
+2. Select "Settings."
+3. Navigate to "Password and authentication."
+4. Under "Two-factor authentication" > "Two-factor methods," edit the "SMS/text message" option to the incoming owner's preferred phone number.
+5. The incoming owner will need to provide a code to confirm the change.
 
 All changes to the website should be made through GitHub — never edit the live site directly.
 
