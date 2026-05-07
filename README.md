@@ -4,7 +4,7 @@ Website for JILSA, built with Jekyll and hosted on GitHub Pages.
 
 ## Ownership & Handoff
 
-The domain was originally registered by **Haley S. Anderson**. She cannot provide IT support or respond to requests about this site. **After 2026, do not contact her about this website.**
+The domain was originally registered by **Haley S. Anderson**. It will be renewed automatically, do not worry about reimbursements (buy her a drink at ASL). She cannot provide IT support or respond to requests about this site. **After 2026, do not contact her about this website.**
 
 When responsibility for the site changes hands, the outgoing owner should pass along:
 
