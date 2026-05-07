@@ -16,7 +16,7 @@ title: Junior International Law Scholars Association
 <div class="section">
   <h2>Contact</h2>
   <div class="contact-info">
-    <p>For inquiries, please reach out to us at:</p>
+    <p>For inquiries, please reach out:</p>
     <p><a href="mailto:juniorinternationallawscholars@gmail.com">juniorinternationallawscholars@gmail.com</a></p>
   </div>
 </div>
